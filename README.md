@@ -1,6 +1,7 @@
 # Code for "Fair Classification with Adversarial Perturbations"
 
 This repository contains the code for reproducing the simulations in our paper
+
 **Fair Classification with Adversarial Perturbations**<br>
 *L. Elisa Celis, Anay Mehrotra, Nisheeth K. Vishnoi*<br>
 
