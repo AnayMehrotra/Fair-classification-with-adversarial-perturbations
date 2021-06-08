@@ -1,6 +1,8 @@
 # Code for "Fair Classification with Adversarial Perturbations"
 
-This repository contains the code for reproducing the simulations in our paper "Fair Classification with Adversarial Perturbations."
+This repository contains the code for reproducing the simulations in our paper
+**Fair Classification with Adversarial Perturbations**<br>
+*L. Elisa Celis, Anay Mehrotra, Nisheeth K. Vishnoi*<br>
 
 ## Running simulations
 1. `simulation-with-adversarial-perturbations-all-algorithms.ipynb` contains code to reproduce the simulations in Figure 1 and Figure 7 for all algorithms except WGN+dro and WGN+SW; `WGN+dro.ipynb` and `WGN+SW.ipynb` contain code to reproduce the simulations in Figure 1 and Figure 7 for WGN+dro and WGN+SW (respectively).
