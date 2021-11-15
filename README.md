@@ -7,11 +7,11 @@ This repository contains the code for reproducing the simulations in our paper
 NeurIPS 2021
 
 <p align="center">
-  <img src="adversary-v2.png" alt="Adversarial Model" width="500"/>
+  <img src="adversary-v2.png" alt="Adversarial Model" width="300"/>
   <br>
   <br>
   
-  <img src="NeurIPS-logo.png" alt="NeurIPS21 Logo" width="500"/>
+  <img src="NeurIPS-logo.png" alt="NeurIPS21 Logo" width="300"/>
 </p>
 
 
